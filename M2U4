@@ -1,1 +1,12 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <iframe src="https://www.meteoblue.com/en/weather/widget/three?geoloc=detect&nocurrent=0&noforecast=0&days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&layout=bright"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 805px; height: 613px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/index?utm_source=weather_widget&utm_medium=linkus&utm_content=three&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+    <div style="position:relative;overflow:hidden;"><a href="https://yandex.com/maps/10754/serpuhov/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Серпухов</a><a href="https://yandex.com/maps/10754/serpuhov/house/brigadnaya_ulitsa_11/Z04YdQ5kTUYGQFtufXR4eX9nYA==/?ll=37.394321%2C54.899155&utm_medium=mapframe&utm_source=maps&z=16.98" style="color:#eee;font-size:12px;position:absolute;top:14px;">Бригадная улица, 11 — Яндекс Карты</a><iframe src="https://yandex.com/map-widget/v1/?ll=37.394321%2C54.899155&mode=whatshere&whatshere%5Bpoint%5D=37.393911%2C54.898851&whatshere%5Bzoom%5D=17&z=16.98" width="560" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>
+</body>
+</html>
